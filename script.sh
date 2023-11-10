@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Oleksandr Kovalenko
+echo "Oleksandr Kovalenko"
